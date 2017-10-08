@@ -1,3 +1,6 @@
-/**
- * Created by Daniil on 07.10.2017.
- */
+VK.init(function() {
+
+}, function() {
+    // API initialization failed
+    // Can reload page here
+}, '5.68');
